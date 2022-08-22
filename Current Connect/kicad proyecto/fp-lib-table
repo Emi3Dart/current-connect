@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Charleslabs_Parts")(type "KiCad")(uri "C:/Users/egina/Documents/librerias KICAD EESTN5/Download/kicad_parts-master/Charleslabs_Parts.pretty")(options "")(descr ""))
+  (lib (name "ESP32devkit")(type "KiCad")(uri "C:/Users/egina/Documents/librerias KICAD EESTN5/Download/ESP32-DEVKITC-32D/ESP32devkit.pretty")(options "")(descr ""))
+)
